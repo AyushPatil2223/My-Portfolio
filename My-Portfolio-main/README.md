@@ -1,6 +1,6 @@
 # 🌟 MY PORTFOLIO
 
-🚀 **Deployment Link:** [Click Here to Visit](https://fnicke.github.io/My-Portfolio/?#)
+
 
 ---
 
@@ -59,26 +59,6 @@
 - Social media icons.
 - Copyright and additional relevant info.
 
----
-
-## 🚀 **Technology Stack**
-🔹 **HTML** – Semantic structure & SEO-friendly tags.  
-🔹 **CSS** – Responsive styling with animations.  
-🔹 **JavaScript (ES6+)** – Interactive components & form validation.  
-🔹 **React.js (Optional)** – Smooth SPA transitions & dynamic UI.  
-🔹 **Bootstrap/Tailwind** – Pre-styled components for faster development.  
-
----
-
-## 🎯 **Future Enhancements**
-🔹 **AI-powered Resume Generator** 🤖  
-🔹 **Integration with GitHub API for Auto-Project Updates** 🔗  
-🔹 **Customizable Themes** 🎨  
-🔹 **Multi-language Support** 🌍  
-🔹 **Dark/Light Mode Toggle** 🌙☀️  
-
----
-
 ## 🛠️ **How to Set Up Locally?**
 1️⃣ Clone the Repository:
 ```bash
@@ -90,13 +70,6 @@
 ```
 3️⃣ Open `index.html` in a browser or deploy it online.
 
----
-
-## 🌍 **Connect with Me**
-📌 **Portfolio:** [Visit My Site](https://fnicke.github.io/My-Portfolio/?#)  
-📌 **GitHub:** [FNICKE](https://github.com/FNICKE)  
-📌 **LinkedIn:** [Sachin Rathod](https://www.linkedin.com/in/sachin-rathod-469168310/)  
-📌 **Email:** rathodsachin0766@gmail.com  
 
 ---
 
